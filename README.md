@@ -1,7 +1,16 @@
-## Hi there 👋, I'm Muhammad Naufal Al Ghazali<br><br>Electrical Engineering student exploring Software Engineering, AI, and IoT. Building practical solutions with code, data, and embedded systems.
+<h1 align="center">Hi there 👋, I'm Muhammad Naufal Al Ghazali</h1>
+
+<p align="center"> <b>Electrical Engineering Student • Software • AI • IoT</b> </p>
+
+<p align="center"> Exploring technology, building things, and learning something new along the way. </p>
 
 # 💫 About Me:
-🌱 I love exploring new things, learning about emerging technologies, and turning ideas into something useful.<br><br>-💻 Software Development<br>-🤖 AI & Computer Vision<br>-🔌 Embedded Systems & IoT<br>-📱 Flutter Development<br>-🌐 Web Development<br>-🚀 Exploring New Technologies<br>-🔬 Curious about Emerging Technology & Innovation
+🌱 I enjoy exploring new things, learning about emerging technologies, and turning ideas into something useful.<br>
+💡 My interests span across hardware and software, especially where technology can be combined to solve real-world problems.
+
+-💻 Software Development<br>-🤖 AI & Computer Vision<br>-🔌 Embedded Systems & IoT<br>-📱 Flutter Development<br>-🌐 Web Development<br>-🚀 Exploring New Technologies<br>-🔬 Curious about Emerging Technology & Innovation
+
+🌱 Always curious, always learning, and always building.
 
 
 ## 🌐 Socials:
@@ -16,5 +25,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=chaka-ranchaka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
